@@ -13,4 +13,5 @@ var
 *.swp
 .DS_Store
 data
+*.html
 __pycache__
